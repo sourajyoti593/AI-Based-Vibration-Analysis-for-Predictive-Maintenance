@@ -2,7 +2,7 @@ import numpy as np
 import tensorflow as tf
 import joblib
 import time
-import serial  # For IoT sensor data (if applicable)
+import serial
 
 # Load trained model and scaler
 model = tf.keras.models.load_model("vibration_model.h5")
@@ -10,7 +10,7 @@ scaler = joblib.load("scaler.pkl")
 
 # Simulated real-time sensor data stream
 def get_sensor_data():
-    return np.random.normal(0, 0.5, 50)  # Replace with actual sensor input
+    return np.random.normal(0, 0.5, 50)  
 
 while True:
     # Read real-time vibration data

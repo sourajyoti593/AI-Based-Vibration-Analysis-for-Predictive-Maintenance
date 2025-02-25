@@ -27,7 +27,7 @@ This project develops an **AI-driven fault detection system** for **industrial m
 ## **Installation & Usage**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/vibration-analysis.git  
+   git clone https://github.com/sourajyoti593/AI-Based-Vibration-Analysis-for-Predictive-Maintenance.git 
    cd vibration-analysis  
    ```  
 2. Install dependencies:  

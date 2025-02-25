@@ -1,0 +1,25 @@
+# Core Libraries
+numpy==1.23.5  
+pandas==1.5.3  
+scipy==1.10.1  
+matplotlib==3.7.1  
+seaborn==0.12.2  
+
+# Signal Processing & Feature Extraction
+librosa==0.10.0  
+pywavelets==1.4.1  
+
+# Machine Learning & Deep Learning
+tensorflow==2.13.0  
+tensorflow-lite==2.13.0  
+scikit-learn==1.2.2  
+xgboost==1.7.3  
+
+# Edge AI & Deployment
+opencv-python==4.7.0.72  
+onnxruntime==1.15.0  
+openvino==2023.0.0  
+
+# Web App & Visualization (Optional)
+flask==2.2.3  
+plotly==5.

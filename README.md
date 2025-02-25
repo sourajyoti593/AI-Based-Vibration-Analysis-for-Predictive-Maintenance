@@ -1,0 +1,1 @@
+# AI-Based-Vibration-Analysis-for-Predictive-Maintenance
